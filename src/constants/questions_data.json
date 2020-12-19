@@ -1,0 +1,811 @@
+[ {
+  "keyword": "COUNTRY",
+  "key": "Germany",
+  "answer" : "Berlin",
+  "option1" : "Bern",
+  "option2" : "Born",
+  "option3" : "Berlin",
+  "option4" : "Warsaw",
+  "question": "The capital of Germany is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Pakistan",
+  "answer" : "Islamabad",
+  "option1" : "Karachi",
+  "option2" : "Islamabad",
+  "option3" : "Kabul",
+  "option4" : "Lahore",
+  "question": "The capital of Pakistan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Turkey",
+  "answer" : "Ankara",
+  "option1" : "Istanbul",
+  "option2" : "Constantinople",
+  "option3" : "Ankara",
+  "option4" : "Antalya",
+  "question": "The capital of Turkey is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Iran",
+  "answer" : "Tehran",
+  "option1" : "Tehran",
+  "option2" : "Baghdad",
+  "option3" : "Damascus",
+  "option4" : "Amman",
+  "question": "The capital of Iran is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Iraq",
+  "answer" : "Baghdad",
+  "option1" : "Tehran",
+  "option2" : "Baghdad",
+  "option3" : "Damascus",
+  "option4" : "Amman",
+  "question": "The capital of Iraq is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Poland",
+  "answer" : "Warsaw",
+  "option1" : "Berlin",
+  "option2" : "Bern",
+  "option3" : "Warsaw",
+  "option4" : "Stockholm",
+  "question": "The capital of Poland is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "India",
+  "answer" : "Delhi",
+  "option1" : "Delhi",
+  "option2" : "Mumbai",
+  "option3" : "Chennai",
+  "option4" : "Kolkata",
+  "question": "The capital of India is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "England",
+  "answer" : "London",
+  "option1" : "Dublin",
+  "option2" : "London",
+  "option3" : "Berlin",
+  "option4" : "Manchester",
+  "question": "The capital of England is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Brazil",
+  "answer" : "Brasilia",
+  "option1" : "Rio de Janeiro",
+  "option2" : "Sau Paolo",
+  "option3" : "Brasilia",
+  "option4" : "Salvador",
+  "question": "The capital of Brazil is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Argentina",
+  "answer" : "Beunos Aires",
+  "option1" : "Beunos Aires",
+  "option2" : "Mendoza",
+  "option3" : "Rosaria",
+  "option4" : "Bariloche",
+  "question": "The capital of Argentina is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Uruguay",
+  "answer" : "Montevideo",
+  "option1" : "San Carlos",
+  "option2" : "Punta del",
+  "option3" : "Montevideo",
+  "option4" : "Asuncion",
+  "question": "The capital of Uruguay is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Paraguay",
+  "answer" : "Asuncion",
+  "option1" : "San Carlos",
+  "option2" : "Punta del",
+  "option3" : "Montevideo",
+  "option4" : "Asuncion",
+  "question": "The capital of Paraguay is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Equador",
+  "answer" : "Quito",
+  "option1" : "Quito",
+  "option2" : "La Paz",
+  "option3" : "Bogota",
+  "option4" : "Lima",
+  "question": "The capital of Equador is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Columbia",
+  "answer" : "Bogota",
+  "option1" : "Quito",
+  "option2" : "La Paz",
+  "option3" : "Bogota",
+  "option4" : "Lima",
+  "question": "The capital of Columbia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Peru",
+  "answer" : "Lima",
+  "option1" : "Quito",
+  "option2" : "La Paz",
+  "option3" : "Bogota",
+  "option4" : "Lima",
+  "question": "The capital of Peru is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Venezuela",
+  "answer" : "Caracass",
+  "option1" : "Georgetown",
+  "option2" : "La Paz",
+  "option3" : "Bogota",
+  "option4" : "Caracass",
+  "question": "The capital of Venezuela is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Chile",
+  "answer" : "Santiago",
+  "option1" : "Beunos Aires",
+  "option2" : "Santiago",
+  "option3" : "Lima",
+  "option4" : "Asuncion",
+  "question": "The capital of Chile is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Nepal",
+  "answer" : "Kathmandu",
+  "option1" : "Kathmandu",
+  "option2" : "Thimpu",
+  "option3" : "Dhaka",
+  "option4" : "Pokhara",
+  "question": "The capital of Nepal is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Bangladesh",
+  "answer" : "Dhaka",
+  "option1" : "Kathmandu",
+  "option2" : "Thimpu",
+  "option3" : "Dhaka",
+  "option4" : "Chittagong",
+  "question": "The capital of Bangladesh is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Bhutan",
+  "answer" : "Thimphu",
+  "option1" : "Kathmandu",
+  "option2" : "Thimphu",
+  "option3" : "Punakha",
+  "option4" : "Dhaka",
+  "question": "The capital of Bhutan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Maldives",
+  "answer" : "Male",
+  "option1" : "Male",
+  "option2" : "Colombo",
+  "option3" : "Port Blair",
+  "option4" : "Rangoon",
+  "question": "The capital of Maldives is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Myanmar",
+  "answer" : "Rangoon",
+  "option1" : "Rangoon",
+  "option2" : "Lhasa",
+  "option3" : "Dhaka",
+  "option4" : "Thimphu",
+  "question": "The capital of Myanmar is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "China",
+  "answer" : "Beijing",
+  "option1" : "Shanghai",
+  "option2" : "Tianjin",
+  "option3" : "Shenzhen",
+  "option4" : "Beijing",
+  "question": "The capital of China is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Afghanistan",
+  "answer" : "Kabul",
+  "option1" : "Tashkent",
+  "option2" : "Bishkek",
+  "option3" : "Kabul",
+  "option4" : "Astana",
+  "question": "The capital of Afghanistan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Uzbekistan",
+  "answer" : "Tashkent",
+  "option1" : "Tashkent",
+  "option2" : "Bishkek",
+  "option3" : "Kabul",
+  "option4" : "Astana",
+  "question": "The capital of Uzbekistan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Kyrgyzstan",
+  "answer" : "Bishkek",
+  "option1" : "Tashkent",
+  "option2" : "Bishkek",
+  "option3" : "Kabul",
+  "option4" : "Astana",
+  "question": "The capital of Kyrgyzstan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Kazakstan",
+  "answer" : "Astana",
+  "option1" : "Tashkent",
+  "option2" : "Bishkek",
+  "option3" : "Kabul",
+  "option4" : "Astana",
+  "question": "The capital of Kazakstan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Mongolia",
+  "answer" : "Ulaanbaatar",
+  "option1" : "Pyongang",
+  "option2" : "Ulaanbaatar",
+  "option3" : "Beijing",
+  "option4" : "Dushanbe",
+  "question": "The capital of Mongolia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Tajikistan",
+  "answer" : "Dushanbe",
+  "option1" : "Ulaanbaatar",
+  "option2" : "Dushanbe",
+  "option3" : "Ashgabat",
+  "option4" : "Tehran",
+  "question": "The capital of Tajikistan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Turkmenistan",
+  "answer" : "Ashgabat",
+  "option1" : "Ulaanbaatar",
+  "option2" : "Dushanbe",
+  "option3" : "Ashgabat",
+  "option4" : "Tehran",
+  "question": "The capital of Turkmenistan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "North Korea",
+  "answer" : "Pyongyang",
+  "option1" : "Pyongyang",
+  "option2" : "Seoul",
+  "option3" : "Hanoi",
+  "option4" : "Manila",
+  "question": "The capital of North Korea is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "South Korea",
+  "answer" : "Seoul",
+  "option1" : "Pyongyang",
+  "option2" : "Seoul",
+  "option3" : "Hanoi",
+  "option4" : "Manila",
+  "question": "The capital of South Korea is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Vietnam",
+  "answer" : "Hanoi",
+  "option1" : "Pyongyang",
+  "option2" : "Seoul",
+  "option3" : "Hanoi",
+  "option4" : "Manila",
+  "question": "The capital of Vietnam is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Syria",
+  "answer" : "Damascus",
+  "option1" : "Tehran",
+  "option2" : "Baghdad",
+  "option3" : "Damascus",
+  "option4" : "Aman",
+  "question": "The capital of Syria is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Jordan",
+  "answer" : "Aman",
+  "option1" : "Tehran",
+  "option2" : "Baghdad",
+  "option3" : "Damascus",
+  "option4" : "Aman",
+  "question": "The capital of Jordan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "United Arab Emirates",
+  "answer" : "Abu Dhabi",
+  "option1" : "Dubai",
+  "option2" : "Sharjah",
+  "option3" : "Abu Dhabi",
+  "option4" : "Ajman",
+  "question": "The capital of United Arab Emirates is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Qatar",
+  "answer" : "Doha",
+  "option1" : "Doha",
+  "option2" : "Riyadh",
+  "option3" : "Yemen",
+  "option4" : "Oman",
+  "question": "The capital of Qatar is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Saudi Arabia",
+  "answer" : "Riyadh",
+  "option1" : "Doha",
+  "option2" : "Riyadh",
+  "option3" : "Yemen",
+  "option4" : "Oman",
+  "question": "The capital of Saudi Arabia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Oman",
+  "answer" : "Muscat",
+  "option1" : "Doha",
+  "option2" : "Riyadh",
+  "option3" : "Yemen",
+  "option4" : "Muscat",
+  "question": "The capital of Oman is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Yemen",
+  "answer" : "Sanaa",
+  "option1" : "Doha",
+  "option2" : "Riyadh",
+  "option3" : "Sanaa",
+  "option4" : "Muscat",
+  "question": "The capital of Yemen is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Israel",
+  "answer" : "Jerusalem",
+  "option1" : "Jerusalem",
+  "option2" : "Tel Aviv",
+  "option3" : "Haifa",
+  "option4" : "Eliat",
+  "question": "The capital of Israel is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Georgia",
+  "answer" : "Tblisi",
+  "option1" : "Yerevan",
+  "option2" : "Baku",
+  "option3" : "Damascus",
+  "option4" : "Tblisi",
+  "question": "The capital of Georgia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Azerbaijan",
+  "answer" : "Baku",
+  "option1" : "Yerevan",
+  "option2" : "Baku",
+  "option3" : "Damascus",
+  "option4" : "Tblisi",
+  "question": "The capital of Azerbaijan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Armenia",
+  "answer" : "Yerevan",
+  "option1" : "Yerevan",
+  "option2" : "Baku",
+  "option3" : "Damascus",
+  "option4" : "Tblisi",
+  "question": "The capital of Armenia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Nicosia",
+  "answer" : "Cyprus",
+  "option1" : "Yerevan",
+  "option2" : "Cyprus",
+  "option3" : "Damascus",
+  "option4" : "Beirut",
+  "question": "The capital of Nicosia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Lebanon",
+  "answer" : "Beirut",
+  "option1" : "Yerevan",
+  "option2" : "Cyprus",
+  "option3" : "Damascus",
+  "option4" : "Beirut",
+  "question": "The capital of Lebanon is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Bahrain",
+  "answer" : "Manama",
+  "option1" : "Manama",
+  "option2" : "Muscat",
+  "option3" : "Doha",
+  "option4" : "Kuwait City",
+  "question": "The capital of Bahrain is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Philippines",
+  "answer" : "Manila",
+  "option1" : "Hanoi",
+  "option2" : "Manila",
+  "option3" : "Cedu",
+  "option4" : "Dawao",
+  "question": "The capital of Philippines is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Japan",
+  "answer" : "Tokyo",
+  "option1" : "Hiroshima",
+  "option2" : "Osaka",
+  "option3" : "Tokyo",
+  "option4" : "Kyoto",
+  "question": "The capital of Japan is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Netherlands",
+  "answer" : "Amsterdam",
+  "option1" : "Amsterdam",
+  "option2" : "Athens",
+  "option3" : "Lisbon",
+  "option4" : "Ljublijana",
+  "question": "The capital of Netherlands is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Greece",
+  "answer" : "Athens",
+  "option1" : "Barcelona",
+  "option2" : "Sparta",
+  "option3" : "Athens",
+  "option4" : "Bratislava",
+  "question": "The capital of Greece is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Spain",
+  "answer" : "Madrid",
+  "option1" : "Madrid",
+  "option2" : "Barcelona",
+  "option3" : "Helsinki",
+  "option4" : "Cologne",
+  "question": "The capital of Spain is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Germany",
+  "answer" : "Berlin",
+  "option1" : "Berlin",
+  "option2" : "Munich",
+  "option3" : "Stuggart",
+  "option4" : "Cologne",
+  "question": "The capital of Germany is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Slovakia",
+  "answer" : "Bratislava",
+  "option1" : "Zareb",
+  "option2" : "Budapest",
+  "option3" : "Bucharest",
+  "option4" : "Bratislava",
+  "question": "The capital of Slovakia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Hungary",
+  "answer" : "Budapest",
+  "option1" : "Zareb",
+  "option2" : "Budapest",
+  "option3" : "Bucharest",
+  "option4" : "Bratislava",
+  "question": "The capital of Hungary is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Romania",
+  "answer" : "Bucharest",
+  "option1" : "Zareb",
+  "option2" : "Budapest",
+  "option3" : "Bucharest",
+  "option4" : "Bratislava",
+  "question": "The capital of Romania is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Italy",
+  "answer" : "Rome",
+  "option1" : "Lisbon",
+  "option2" : "Milan",
+  "option3" : "Rome",
+  "option4" : "Vilnius",
+  "question": "The capital of Italy is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "France",
+  "answer" : "Paris",
+  "option1" : "Lisbon",
+  "option2" : "Milan",
+  "option3" : "Rome",
+  "option4" : "Paris",
+  "question": "The capital of France is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Belgium",
+  "answer" : "Brussels",
+  "option1" : "Luxembourg",
+  "option2" : "Sofia",
+  "option3" : "Brussels",
+  "option4" : "Paris",
+  "question": "The capital of Belgium is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Sweden",
+  "answer" : "Stockholm",
+  "option1" : "Luxembourg",
+  "option2" : "Vienna",
+  "option3" : "Brussels",
+  "option4" : "Stockholm",
+  "question": "The capital of Sweden is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Luxembourg",
+  "answer" : "Luxembourg",
+  "option1" : "Luxembourg",
+  "option2" : "Vienna",
+  "option3" : "Brussels",
+  "option4" : "Stockholm",
+  "question": "The capital of Luxembourg is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Czech Republic",
+  "answer" : "Prague",
+  "option1" : "Luxembourg",
+  "option2" : "Prague",
+  "option3" : "Brussels",
+  "option4" : "Stockholm",
+  "question": "The capital of Czech Republic is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Portugal",
+  "answer" : "Lisbon",
+  "option1" : "Lisbon",
+  "option2" : "Milan",
+  "option3" : "Madrid",
+  "option4" : "Barcelona",
+  "question": "The capital of Portugal is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Slovenia",
+  "answer" : "Ljublijana",
+  "option1" : "Lisbon",
+  "option2" : "Sofia",
+  "option3" : "Ljublijana",
+  "option4" : "Riga",
+  "question": "The capital of Slovenia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Bulgaria",
+  "answer" : "Sofia",
+  "option1" : "Valletta",
+  "option2" : "Sofia",
+  "option3" : "Ljublijana",
+  "option4" : "Riga",
+  "question": "The capital of Bulgaria is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Malta",
+  "answer" : "Valletta",
+  "option1" : "Valletta",
+  "option2" : "Sofia",
+  "option3" : "Ljublijana",
+  "option4" : "Riga",
+  "question": "The capital of Malta is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Lithuania",
+  "answer" : "Vilnius",
+  "option1" : "Valletta",
+  "option2" : "Sofia",
+  "option3" : "Vilnius",
+  "option4" : "Riga",
+  "question": "The capital of Lithuania is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Latvia",
+  "answer" : "Riga",
+  "option1" : "Valletta",
+  "option2" : "Sofia",
+  "option3" : "Vilnius",
+  "option4" : "Riga",
+  "question": "The capital of Latvia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Croatia",
+  "answer" : "Zagreb",
+  "option1" : "Zagreb",
+  "option2" : "Tallinn",
+  "option3" : "Sofia",
+  "option4" : "Riga",
+  "question": "The capital of Croatia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Estonia",
+  "answer" : "Tallinn",
+  "option1" : "Zagreb",
+  "option2" : "Tallinn",
+  "option3" : "Sofia",
+  "option4" : "Riga",
+  "question": "The capital of Estonia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Denmark",
+  "answer" : "Copenhagen",
+  "option1" : "Copenhagen",
+  "option2" : "Warsaw",
+  "option3" : "Vienna",
+  "option4" : "Brussels",
+  "question": "The capital of Denmark is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Austria",
+  "answer" : "Vienna",
+  "option1" : "Copenhagen",
+  "option2" : "Warsaw",
+  "option3" : "Vienna",
+  "option4" : "Brussels",
+  "question": "The capital of Austria is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Cuba",
+  "answer" : "Havana",
+  "option1" : "Havana",
+  "option2" : "Santiago de Cuba",
+  "option3" : "Varadero",
+  "option4" : "Cienfuegos",
+  "question": "The capital of Cuba is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Canada",
+  "answer" : "Ottawa",
+  "option1" : "Toronto",
+  "option2" : "Vancouver",
+  "option3" : "Montreal",
+  "option4" : "Ottawa",
+  "question": "The capital of Canada is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "United State of America",
+  "answer" : "Washington DC",
+  "option1" : "New York",
+  "option2" : "Los Angeles",
+  "option3" : "Washington DC",
+  "option4" : "Las Vegas",
+  "question": "The capital of United States of America is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Mexico",
+  "answer" : "Mexico City",
+  "option1" : "Merida",
+  "option2" : "Mexico City",
+  "option3" : "Tijuana",
+  "option4" : "Guadalajara",
+  "question": "The capital of Mexico is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Panama",
+  "answer" : "Panama City",
+  "option1" : "Panama City",
+  "option2" : "Ancon",
+  "option3" : "Tocumen",
+  "option4" : "Balboa",
+  "question": "The capital of Panama is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Australia",
+  "answer" : "Canberra",
+  "option1" : "Melbourne",
+  "option2" : "Brisbane",
+  "option3" : "Sydney",
+  "option4" : "Canberra",
+  "question": "The capital of Australia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Palau",
+  "answer" : "Ngerulmud",
+  "option1" : "Ngerulmud",
+  "option2" : "Palikir",
+  "option3" : "Port Moresby",
+  "option4" : "Majuro",
+  "question": "The capital of Palau is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Micronesia",
+  "answer" : "Palikir",
+  "option1" : "Ngerulmud",
+  "option2" : "Palikir",
+  "option3" : "Port Moresby",
+  "option4" : "Majuro",
+  "question": "The capital of Micronesia is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Marshall Island",
+  "answer" : "Majuro",
+  "option1" : "Ngerulmud",
+  "option2" : "Palikir",
+  "option3" : "Port Moresby",
+  "option4" : "Majuro",
+  "question": "The capital of Marshall Island is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Papua New Guniea",
+  "answer" : "Port Moresby",
+  "option1" : "Ngerulmud",
+  "option2" : "Palikir",
+  "option3" : "Port Moresby",
+  "option4" : "Majuro",
+  "question": "The capital of Papua New Guinea is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Nauru",
+  "answer" : "Yaren",
+  "option1" : "Yaren",
+  "option2" : "South Tarawa",
+  "option3" : "Funafuti",
+  "option4" : "Honiara",
+  "question": "The capital of Nauru is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Kiribati",
+  "answer" : "South Tarawa",
+  "option1" : "Yaren",
+  "option2" : "South Tarawa",
+  "option3" : "Funafuti",
+  "option4" : "Honiara",
+  "question": "The capital of Kiribati is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Tuvalu",
+  "answer" : "Funafuti",
+  "option1" : "Yaren",
+  "option2" : "South Tarawa",
+  "option3" : "Funafuti",
+  "option4" : "Honiara",
+  "question": "The capital of Tuvalu is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Solomon Island",
+  "answer" : "Honiara",
+  "option1" : "Yaren",
+  "option2" : "South Tarawa",
+  "option3" : "Funafuti",
+  "option4" : "Honiara",
+  "question": "The capital of Solomon Island is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Vanuatu",
+  "answer" : "Port Vila",
+  "option1" : "Port Vila",
+  "option2" : "Suva",
+  "option3" : "Apia",
+  "option4" : "Nukualofa",
+  "question": "The capital of Vanuatu is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Fiji",
+  "answer" : "Suva",
+  "option1" : "Port Vila",
+  "option2" : "Suva",
+  "option3" : "Apia",
+  "option4" : "Nukualofa",
+  "question": "The capital of Fiji is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Samoa",
+  "answer" : "Apia",
+  "option1" : "Port Vila",
+  "option2" : "Suva",
+  "option3" : "Apia",
+  "option4" : "Nukualofa",
+  "question": "The capital of Samoa is"
+}, {
+  "keyword": "COUNTRY",
+  "key": "Tonga",
+  "answer" : "Nukualofa",
+  "option1" : "Port Vila",
+  "option2" : "Suva",
+  "option3" : "Apia",
+  "option4" : "Nukualofa",
+  "question": "The capital of Tonga is"
+}, ]
