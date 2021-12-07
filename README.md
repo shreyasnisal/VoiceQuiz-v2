@@ -1,4 +1,4 @@
-# QuizApp
+# Voice Quiz
 
 [![Last Commit](https://img.shields.io/github/last-commit/shreyasnisal/VoiceQuiz-v2)](https://img.shields.io/github/last-commit/shreyasnisal/VoiceQuiz-v2)
 [![YouTube Views](https://img.shields.io/youtube/views/wvW8U_GE-4Q?style=social)](https://img.shields.io/youtube/views/wvW8U_GE-4Q?style=social)
