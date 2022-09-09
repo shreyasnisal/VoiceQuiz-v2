@@ -36,6 +36,6 @@ Note: To build the project on an iOS device, you require the machine running the
 
 ## Contributing
 
-Issues are welcome. Please add a screenshot of bug and code snippet. Quickest way to solve issue is to reproduce it on one of the examples.
+Issues are welcome. If you encounter a bug, please open an issue with as accurate a description as possible.
 
-Pull requests are welcome. If you want to make major changes, it is better to first create an issue and discuss it first.
+Pull requests are also welcome. If you want to make major changes, it is better to first create an issue and discuss it first.
